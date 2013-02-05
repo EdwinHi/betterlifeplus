@@ -1,0 +1,41 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+Copyright 2012-2013 StyledThemes.com
+
+	
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(January 22, 2013) - Bug fix - Version 1.5
+[!] - Updated the front-page-widgets.php page template as the template name was missing
+
+-----
+
+(January 20, 2013) - Bug fix and improvements - Version 1.4
+[*] - Changed and updated the language files .pot and .mo
+[*] - Adjusted the footer menu to be one level only
+[*] - Fixed an empty post thumbnail container on single posts that showed when no featured image was used
+[+] - Added single post pagination for previous and next posts
+[*] - Updated file comment information
+[+] - Added a link for the site logo, both default and user logo
+
+----
+
+(January 16, 2013) - Bug fix and improvements - Version 1.3
+[*] - Recoded the showcase header area in the header.php file because of missing sidebar
+[*] - Changed the state of the demo banner from on to off as default setting
+[*] - Changed the language .pot and .mo with an updated string and added a new one in the theme-customizer.php file
+
+----
+
+(November 20, 2012) Version 1.0 Styled Themes <www.styledthemes.com>
+Initial Release	

@@ -1,0 +1,17 @@
+== Changelog ==
+
+= Theme Name: Cloriato Lite
+* Version: 1.6.1
+***************************************
+1. Copyright License stated.
+
+* Version: 1.6
+***************************************
+1. Custom background option has to be use WordPress core function, fixed.
+2. Footer link (Cloriato Wordpress Theme by InkThemes?.com) needs to be changed. fixed.
+3. Debug notice : Use of undefine constant php - assumed 'php', fixed.
+
+* Version: 1.5
+***************************************
+1. Fixed get_theme_data is deprecated since version 3.4! error.
+2. Removed @package WordPress

@@ -1,0 +1,18 @@
+CyberChimps Free Changelog
+
+****************************
+
+Version 1.0.3 (1-25/13)
+-Fix upload bug
+
+Version 1.0.2 (1-23-13)
+-js improvements, meta tag-links classes fix.
+
+Version 1.0.1 (1-14-13)
+-Latest framework.
+
+Version 1.0 (1-6-13)
+-Latest framework.
+
+Version 0.9 (11-09-12)
+-Initial release.

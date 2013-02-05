@@ -1,0 +1,734 @@
+# Copyright SiteOrigin (c) 2013
+# This file is distributed under the GNU General Public License 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: snapshot 1.1\n"
+"POT-Creation-Date: 2013-01-22T11:37:16+02:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+msgid "Page Not Found"
+msgstr ""
+
+msgid "We couldn't find what you were looking for."
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Comments Are Closed"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "dismiss"
+msgstr ""
+
+msgid "Create custom tileable background images using our free <a href='%s' target='_blank'>background image generator</a>."
+msgstr ""
+
+msgid "Hi! I'm Greg Priday from SiteOrigin."
+msgstr ""
+
+msgid "I hope you enjoy my WordPress theme."
+msgstr ""
+
+msgid "Please follow me on Twitter and Facebook for updates."
+msgstr ""
+
+msgid "You're using %s in demo mode. <a href='%s'>Click here</a> to disable all demo content."
+msgstr ""
+
+msgid "Disable Demo Mode"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Check this box to disable demo mode. You can't re-enable the demo mode."
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Navigate"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Panels"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Are you sure you want to delete these columns?"
+msgstr ""
+
+msgid "Are you sure you want to delete this widget?"
+msgstr ""
+
+msgid "Panels is a drag and drop page builder. You can find the <a href=\"%s\">full documentation</a> on SiteOrigin."
+msgstr ""
+
+msgid "Add Widget"
+msgstr ""
+
+msgid "Add Columns"
+msgstr ""
+
+msgid "Additional widgets are available in <a href=\"%s\">%s Premium</a>"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Premium Upgrade"
+msgstr ""
+
+msgid "There's a premium version of %s available, <a href='%s'>find out more</a>."
+msgstr ""
+
+msgid "After you pay for %s Premium, we'll email you a download link and an order number to your <strong>PayPal email address</strong>. "
+msgstr ""
+
+msgid "Use <a href='%s' target='_blank'>this form</a> if you don't receive your order number in the next 15 minutes. "
+msgstr ""
+
+msgid "Be sure to check your spam folder."
+msgstr ""
+
+msgid "Order Number"
+msgstr ""
+
+msgid "Enable Upgrade"
+msgstr ""
+
+msgid "Already Paid?"
+msgstr ""
+
+msgid "Buy Upgrade"
+msgstr ""
+
+msgid "Your Order Number Is [%s]"
+msgstr ""
+
+msgid "There was a problem contacting our validation servers."
+msgstr ""
+
+msgid "Please try again later, or upgrade manually using the ZIP file we sent you."
+msgstr ""
+
+msgid "We've validated your order number."
+msgstr ""
+
+msgid "You can update now, or later on your <a href=\"%s\">Themes page</a>."
+msgstr ""
+
+msgid "This update will unlock all the premium features."
+msgstr ""
+
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr ""
+
+msgid "Update Theme"
+msgstr ""
+
+msgid "We  <strong>invalid</strong>."
+msgstr ""
+
+msgid "Please try again, or upgrade manually using the ZIP file we sent you."
+msgstr ""
+
+msgid "Note that you need a valid order number to receive automatic updates in the future."
+msgstr ""
+
+msgid "This feature is available in <strong>%s Premium</strong> - <strong class=\"upgrade\">Upgrade Now</strong>"
+msgstr ""
+
+msgid "Check out the <a href='%s'>documentation</a> for %s. "
+msgstr ""
+
+msgid "Please like and follow SiteOrigin to hear about my new WordPress freebies."
+msgstr ""
+
+msgid "%s Theme Settings"
+msgstr ""
+
+msgid "Theme Settings"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "You need to <a href=\"%s\">upgrade</a> to WordPress 3.5 to use media fields"
+msgstr ""
+
+msgid "Select Media"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "This setting is available in <strong>%s Premium</strong> - <strong class=\"upgrade\">Upgrade Now</strong>"
+msgstr ""
+
+msgid "Unknown Field Type"
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Read %s's <a href='%s'>theme documentation</a> for help with these settings."
+msgstr ""
+
+msgid "Settings Help"
+msgstr ""
+
+msgid "Set Media File"
+msgstr ""
+
+msgid "Sliders"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+# siteorigin
+msgid "Add New"
+msgstr ""
+
+msgid "Add New Slider"
+msgstr ""
+
+msgid "Edit Slider"
+msgstr ""
+
+msgid "New Slider"
+msgstr ""
+
+msgid "All Sliders"
+msgstr ""
+
+msgid "View Slider"
+msgstr ""
+
+msgid "Search Sliders"
+msgstr ""
+
+msgid "No sliders found"
+msgstr ""
+
+msgid "No sliders found in Trash"
+msgstr ""
+
+msgid "Slider Slides"
+msgstr ""
+
+msgid "Slides"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Upgrade to <a href=\"%s\">%s Premium</a> to link slides to URLS"
+msgstr ""
+
+msgid "Insert a slider."
+msgstr ""
+
+msgid "Please select a slider."
+msgstr ""
+
+msgid "Image Size"
+msgstr ""
+
+msgid "New Item"
+msgstr ""
+
+msgid "Title Text"
+msgstr ""
+
+msgid "Extra Text"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+msgid "Add Slide"
+msgstr ""
+
+msgid "Upload Media"
+msgstr ""
+
+msgid "Premium Theme Support"
+msgstr ""
+
+msgid "Need some theme support? Just fill out a <a href='%s'>support request</a> and we'll get back to you. "
+msgstr ""
+
+msgid "Theme Support"
+msgstr ""
+
+msgid "We offer email support to everyone who upgrades to <a href=\"%s\">%s Premium</a>."
+msgstr ""
+
+msgid "We still love you, even if you're using %s Free. We just want to offer the best service possible to the fine people who have purchased our Premium themes."
+msgstr ""
+
+msgid "%s Order Code"
+msgstr ""
+
+msgid "Order Code"
+msgstr ""
+
+msgid "Find your order code in your original download email from SiteOrigin"
+msgstr ""
+
+msgid "Call To Action"
+msgstr ""
+
+msgid "A call to action block, generally for your home page."
+msgstr ""
+
+msgid "Headline"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Button Text"
+msgstr ""
+
+msgid "Button URL"
+msgstr ""
+
+msgid "Button Style"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Display a button."
+msgstr ""
+
+msgid "Click Me"
+msgstr ""
+
+msgid "Alignment"
+msgstr ""
+
+msgid "Icon and Text"
+msgstr ""
+
+msgid "A block of text with an icon."
+msgstr ""
+
+msgid "Post List"
+msgstr ""
+
+msgid "Displays a list of posts."
+msgstr ""
+
+msgid "Post Type"
+msgstr ""
+
+msgid "Post Count"
+msgstr ""
+
+msgid "Order By"
+msgstr ""
+
+msgid "Show Post Title"
+msgstr ""
+
+msgid "Displays a simple headline."
+msgstr ""
+
+msgid "Headline Text"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Theme By <a href=\"%s\">SiteOrigin</a>"
+msgstr ""
+
+msgid "Sidebar Exclude"
+msgstr ""
+
+msgid "Exclude"
+msgstr ""
+
+msgid "Post Video"
+msgstr ""
+
+msgid "Embed a video instead of the image gallery. Any oEmbed compatible site like YouTube or Vimeo."
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+msgid "Social"
+msgstr ""
+
+msgid "Search in Menu"
+msgstr ""
+
+msgid "Display a search link in your menu that slides out a big beautiful search bar."
+msgstr ""
+
+msgid "Latest Posts Title"
+msgstr ""
+
+msgid "Copyright Message"
+msgstr ""
+
+msgid "Attribution Link"
+msgstr ""
+
+msgid "Hide or display \"Theme By SiteOrigin\" link from your footer."
+msgstr ""
+
+msgid "Link Color"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Choose the style of your site."
+msgstr ""
+
+msgid "Clickable Thumbnails"
+msgstr ""
+
+msgid "Make the entire post thumbnail clickable on the home page and post archive pages."
+msgstr ""
+
+msgid "Sidebar Images"
+msgstr ""
+
+msgid "Show or hide the post thumbnails down the right sidebar."
+msgstr ""
+
+msgid "Video: Autoplay"
+msgstr ""
+
+msgid "Automatically start playing post videos"
+msgstr ""
+
+msgid "Video: Hide Related"
+msgstr ""
+
+msgid "Hides related videos after YouTube videos stop playing."
+msgstr ""
+
+msgid "Video: Default to HD"
+msgstr ""
+
+msgid "Defaults YouTube and Vimeo videos to HD. Can be overwritten by user/video settings."
+msgstr ""
+
+msgid "Home Page Slider"
+msgstr ""
+
+msgid "Transition Speed"
+msgstr ""
+
+msgid "Number of milliseconds a photo is displayed for."
+msgstr ""
+
+msgid "Transition Delay"
+msgstr ""
+
+msgid "How many milliseconds the transition takes."
+msgstr ""
+
+msgid "The number of posts displayed on your home page slider."
+msgstr ""
+
+msgid "Posts Order"
+msgstr ""
+
+msgid "How Snapshot chooses your home page slides."
+msgstr ""
+
+msgid "Posts Category"
+msgstr ""
+
+msgid "Choose which posts are displayed on your home page slider."
+msgstr ""
+
+msgid "Share Buttons"
+msgstr ""
+
+msgid "Show share buttons next to posts"
+msgstr ""
+
+msgid "Twitter Username"
+msgstr ""
+
+msgid "Recommend SiteOrigin"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Recommends your's and SiteOrigin's Twitter accounts after someone tweets your post."
+msgstr ""
+
+msgid "Ajax Comments"
+msgstr ""
+
+msgid "Let your visitors post comments without leaving the page."
+msgstr ""
+
+msgid "Error 404 Message"
+msgstr ""
+
+msgid "No Search Results"
+msgstr ""
+
+msgid "Latest Posts"
+msgstr ""
+
+msgid "Copyright &copy; {sitename} {year}"
+msgstr ""
+
+msgid "Main Menu"
+msgstr ""
+
+msgid "Site Footer"
+msgstr ""
+
+msgid "No Comments"
+msgstr ""
+
+msgid "One Comment"
+msgstr ""
+
+msgid "% Comments"
+msgstr ""
+
+msgid "%s Comments"
+msgstr ""
+
+msgid "Previous Page"
+msgstr ""
+
+msgid "Next Page"
+msgstr ""
+
+msgid "No results."
+msgstr ""
+
+msgid "Custom CSS"
+msgstr ""
+
+msgid "%s adds any custom CSS you enter here into your site's header. "
+msgstr ""
+
+msgid "These changes will persist across updates so it's best to make all your changes here. "
+msgstr ""
+
+msgid "Contact <a href='%s' target='_blank'>SiteOrigin Support</a> for help with making edits. "
+msgstr ""
+
+msgid "Changes apply to %s and its child themes"
+msgstr ""
+
+msgid "Save CSS"
+msgstr ""
+
+msgid "like"
+msgstr ""
+
+msgid "Destination URL"
+msgstr ""
+
+msgid "Google Map"
+msgstr ""
+
+msgid "Displays a very simple Google map"
+msgstr ""
+
+msgid "Map Location"
+msgstr ""
+
+msgid "The Map address"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "The height of the map, the width is decided by the size of its panel."
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "The zoom of the map."
+msgstr ""
+
+msgid "Embedded Video"
+msgstr ""
+
+msgid "Embeds a video."
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Bullet List"
+msgstr ""
+
+msgid "A simple bullet list."
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "List Text"
+msgstr ""
+
+msgid "Use a * at the beginning of each list entry line."
+msgstr ""
+
+msgid "Contact Form 7"
+msgstr ""
+
+msgid "Displays a contact form."
+msgstr ""
+
+msgid "This widget requires the Contact Form 7 plugin."
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Contact Form"
+msgstr ""
+
+msgid "Enter the full url of a oEmbed video (YouTube, Vimeo, etc)."
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Post Date"
+msgstr ""
+
+msgid "Modified Date"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "By Comment Count"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "This Slider Will Display Your Post's Featured Images... So Start Adding Some Posts."
+msgstr ""
+
+msgid "Upgrade To Snapshot Premium"
+msgstr ""
+
+msgid "If you've enjoyed using Snapshot, you'll going to love Snapshot Premium. It's a robust upgrade to Snapshot that gives you loads of cool features and email support. At just <strong>$9</strong>, it's a cost effective way to give your site a professional edge."
+msgstr ""
+
+msgid "If you're not delighted with Snapshot Premium, I'll give you a full refund"
+msgstr ""
+
+msgid "Remember, if you're not satisfied, you get your money back"
+msgstr ""
+
+msgid "Sprite Maps"
+msgstr ""
+
+msgid "If you're targeting a perfect Google PageSpeed score and all the SEO benefits it brings, then sprite maps are essential. They'll make your site load faster and put less load on your servers - saving you cash."
+msgstr ""
+
+msgid "Video Posts"
+msgstr ""
+
+msgid "Are you more of a video guy/gal? Snapshot Premium makes adding videos, from any popular video sharing site, easy. Your video goes front and center - where the featured photo usually goes. Perfect for your video blog or web series."
+msgstr ""
+
+msgid "Keep the conversation flowing with ajax comments. Your visitors will be able to post comments without leaving the page or interrupting your videos. Ajax comments makes commenting more enjoyable for your visitors. So you'll probably get more comments and more visitors."
+msgstr ""
+
+msgid "A Dashing Dark Style"
+msgstr ""
+
+msgid "Prefer to keep the lights out? Snapshot Premium ships with both dark and light styles. So you can set the mood you really want."
+msgstr ""
+
+msgid "Remove Attribution Links"
+msgstr ""
+
+msgid "Want to look professional? Snapshot Premium gives you the option to remove the \"Theme by SiteOrigin\" text from your footer in the options panel."
+msgstr ""
+
+msgid "Slick Search"
+msgstr ""
+
+msgid "Snapshot Premium has an option to add a non-obtrusive search button to your main menu. Clicking it slides out a big, beautiful search bar so your visitors can explore your content."
+msgstr ""
+
+msgid "Continued Updates"
+msgstr ""
+
+msgid "We'll keep Snapshot Premium up to date with new features and performance enhancements."
+msgstr ""
+
+msgid "Premium Support"
+msgstr ""
+
+msgid "New to WordPress? Need to chat to someone? There is a WordPress guru, waiting to answer your questions. Your posts receive much higher priority on our support forums."
+msgstr ""
+
+msgid "If you've enjoyed using Snapshot, you're going to love Snapshot Premium. It's a robust upgrade to Snapshot that gives you loads of cool features and premium support. At just $7.50, it's a cost effective way to give your site a professional edge."
+msgstr ""
+
+msgid "New to WordPress? Need to chat to someone? There is a WordPress guru, waiting to answer your questions. You'll be familiar with our theme in no time."
+msgstr ""
+
+msgid "Risk Free Money Back Guarantee"
+msgstr ""

@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpthemes.co.nz - framework\n"
+"POT-Creation-Date: 2013-01-16 20:44+0800\n"
+"PO-Revision-Date: 2013-01-16 20:44+0800\n"
+"Last-Translator: ed cardinal <lizardking67@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\pinblack\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/404.php:9
+msgid "Well this is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/404.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links, can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/404.php:19
+msgid "Most Used Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/404.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/archive.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:86
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/sidebar.php:14
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/archive.php:11
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/archive.php:13
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/archive.php:15
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/archive.php:38
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/category.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/index.php:17
+msgid "View Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/archive.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/category.php:62
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/index.php:48
+msgid "Filed Under"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/author.php:20
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/author.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/search.php:34
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/tag.php:47
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/author.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/tag.php:51
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/category.php:9
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/comments.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/comments.php:47
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/comments.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/comments.php:48
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/comments.php:33
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-aside.php:13
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-gallery.php:21
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-image.php:8
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content.php:22
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-aside.php:14
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-gallery.php:43
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-image.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-page.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-single.php:13
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content.php:23
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/image.php:78
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-aside.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-gallery.php:73
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-image.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content.php:53
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-aside.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-gallery.php:73
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-image.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content.php:53
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-aside.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-gallery.php:73
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-image.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content.php:53
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-aside.php:24
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-gallery.php:77
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-image.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-page.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-single.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content.php:57
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/image.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/image.php:92
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-gallery.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-gallery.php:62
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-single.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content.php:42
+msgid ", "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-gallery.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content.php:35
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-gallery.php:66
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content.php:46
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-single.php:27
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-single.php:29
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-single.php:35
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/content-single.php:37
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/footer.php:6
+msgid "&copy; "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/footer.php:8
+msgid "- Powered by "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/footer.php:8
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/footer.php:8
+msgid "Wordpress"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/footer.php:9
+msgid " and "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/footer.php:9
+msgid "http://wpthemes.co.nz/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/footer.php:9
+msgid "WP Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:83
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:84
+msgid "Tag"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:85
+msgid "Author"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:91
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:95
+msgid "Page "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:166
+msgid "Sidebar 1"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:186
+msgid "Post navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:196
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:200
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:222
+msgid "Pingback:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:222
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:245
+msgid "(Edit)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:232
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:235
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:243
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:268
+#, php-format
+msgid ""
+"<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"byline\"> <span class=\"sep\"> by </span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:274
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:364
+#, php-format
+msgid "<div class=\"pagination\"><span>Page %1$s of %2$s</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:365
+#, php-format
+msgid "<a href=\"%1$s\">&laquo; First</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:366
+#, php-format
+msgid "<a href=\"%1$s\">&lsaquo; Previous</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:376
+#, php-format
+msgid "<a href=\"%1$s\">Next &rsaquo;</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/functions.php:377
+#, php-format
+msgid "<a href=\"%1$s\">Last &raquo;</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/header.php:31
+msgid "Main menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/image.php:16
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s"
+"\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">"
+"%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel="
+"\"gallery\">%7$s</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/image.php:30
+msgid "&larr; Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/image.php:31
+msgid "Next &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/image.php:84
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/image.php:86
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/image.php:88
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/image.php:90
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/search.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/sidebar.php:21
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\pinblack/tag.php:11
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""

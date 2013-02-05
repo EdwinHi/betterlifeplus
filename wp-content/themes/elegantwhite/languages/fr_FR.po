@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: elegantWhite v1.3.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-01-08 05:29:46+0000\n"
+"Last-Translator: Themes by Fimply\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:18
+#@ elegantwhite
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: 404.php:20
+#@ elegantwhite
+msgid "The site could not be found."
+msgstr "La page n'a pas pu être trouvé."
+
+#: inc/theme-options.php:35
+#@ elegantwhite
+msgid "The settings have been saved."
+msgstr ""
+
+#: inc/theme-options.php:54
+#@ elegantwhite
+msgid "Check this box to place a search box in the header."
+msgstr ""
+
+#: inc/theme-options.php:78
+#@ elegantwhite
+msgid "Header-Image"
+msgstr ""
+
+#: inc/theme-options.php:82
+#@ elegantwhite
+msgid "Image-Text"
+msgstr ""
+
+#: inc/theme-options.php:172
+#@ elegantwhite
+msgid "Save Settings"
+msgstr ""
+
+#: searchform.php:1
+#@ elegantwhite
+msgid "Search ..."
+msgstr "Chercher ..."
+
+#: search.php:43
+#@ elegantwhite
+msgid "No Search Result Found"
+msgstr ""
+
+#: search.php:45
+#@ elegantwhite
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: archive.php:36
+#: category.php:35
+#: index.php:34
+#: search.php:33
+#: tag.php:37
+#@ elegantwhite
+msgid "read more ..."
+msgstr ""
+
+#: archive.php:45
+#: category.php:44
+#: index.php:43
+#: tag.php:46
+#@ elegantWhite
+msgid "older entries"
+msgstr ""
+
+#: archive.php:45
+#: category.php:44
+#: index.php:43
+#: tag.php:46
+#@ elegantWhite
+msgid "newer entries"
+msgstr ""
+
+#: inc/comments-form.php:3
+#@ elegantWhite
+msgid "Name*"
+msgstr ""
+
+#: inc/comments-form.php:5
+#@ elegantWhite
+msgid "E-Mai*"
+msgstr ""
+
+#: inc/comments-form.php:7
+#@ elegantWhite
+msgid "Website"
+msgstr ""
+
+#: inc/theme-options.php:160
+#@ elegantwhite
+msgid "This text is placed in the footer"
+msgstr ""
+
+#: comments.php:10
+#@ elegantwhite
+msgid "Comment"
+msgstr ""
+
+#: attachment.php:40
+#@ elegantwhite
+msgid "Previous image"
+msgstr ""
+
+#: attachment.php:40
+#@ elegantwhite
+msgid "Next image"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:275
+#, php-format
+#@ elegantwhite
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:281
+#@ elegantwhite
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/theme-options.php:66
+#@ elegantwhite
+msgid "Example"
+msgstr ""
+
+#: inc/custom-header.php:17
+#@ elegantWhite
+msgid "Clouds"
+msgstr ""
+
+#: inc/theme-options.php:43
+#@ elegantwhite
+msgid "Header"
+msgstr ""
+
+#: inc/theme-options.php:84
+#@ elegantwhite
+msgid "This text will be placed in the top left corner of the header image."
+msgstr ""
+
+#: inc/theme-options.php:154
+#@ elegantwhite
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-options.php:158
+#@ elegantwhite
+msgid "Footer-Text"
+msgstr ""
+
+#: inc/theme-options.php:95
+#@ elegantwhite
+msgid "Articles"
+msgstr ""
+
+#: archive.php:31
+#: attachment.php:29
+#: full-width-page.php:34
+#: page.php:30
+#@ elegantwhite
+msgid "Edit article"
+msgstr ""
+
+#: inc/theme-options.php:131
+#@ elegantwhite
+msgid "Pages"
+msgstr ""
+
+#: comments.php:3
+#@ elegantwhite
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:3
+#@ elegantwhite
+msgid "Comments"
+msgstr ""
+
+#: archive.php:26
+#: attachment.php:23
+#: category.php:25
+#: full-width-page.php:27
+#: index.php:22
+#: page.php:23
+#: search.php:23
+#: single.php:23
+#: tag.php:25
+#@ elegantwhite
+msgid "Featured"
+msgstr ""
+
+#: single.php:43
+#@ elegantWhite
+msgid "Author"
+msgstr ""
+
+#: single.php:47
+#@ elegantWhite
+msgid "CATEGORIES"
+msgstr ""
+
+#: archive.php:17
+#@ elegantwhite
+msgid "Archives"
+msgstr ""
+
+#: category.php:17
+#, php-format
+#@ elegantwhite
+msgid "Category Archives: %s"
+msgstr ""
+
+#: functions.php:173
+#@ elegantwhite
+msgid "Untitled"
+msgstr ""
+
+#: functions.php:272
+#, php-format
+#@ elegantwhite
+msgid "%s"
+msgstr ""
+
+#: functions.php:287
+#@ elegantwhite
+msgid "[Edit]"
+msgstr ""
+
+#: inc/custom-header.php:23
+#@ elegantWhite
+msgid "Blue Sky"
+msgstr ""
+
+#: inc/custom-header.php:29
+#@ elegantWhite
+msgid "Baltic Sea"
+msgstr ""
+
+#: inc/password-form.php:8
+#@ elegantwhite
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: inc/password-form.php:9
+#@ elegantwhite
+msgid "Submit"
+msgstr ""
+
+#: inc/register-sidebar.php:4
+#: sidebar.php:1
+#@ elegantwhite
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-options.php:10
+#@ elegantwhite
+msgid "elegantWhite Theme Settings"
+msgstr ""
+
+#: inc/theme-options.php:47
+#@ elegantwhite
+msgid "Deactivate the line at the top"
+msgstr ""
+
+#: inc/theme-options.php:62
+#@ elegantwhite
+msgid "Check this box to place gray lines between the headings and the header image."
+msgstr ""
+
+#: inc/theme-options.php:99
+#@ elegantwhite
+msgid "Deactivate the post navigation"
+msgstr ""
+
+#: inc/theme-options.php:106
+#@ elegantwhite
+msgid "Show an Author-Box under each article."
+msgstr ""
+
+#: inc/theme-options.php:112
+#@ elegantwhite
+msgid "Show Tags under each article."
+msgstr ""
+
+#: inc/theme-options.php:118
+#@ elegantwhite
+msgid "Show Categories under each article."
+msgstr ""
+
+#: inc/theme-options.php:135
+#@ elegantwhite
+msgid "Show the date of publication above each page."
+msgstr ""
+
+#: inc/theme-options.php:141
+#@ elegantwhite
+msgid "Show the date of publication above each full width page."
+msgstr ""
+
+#: inc/theme-options.php:163
+#@ elegantwhite
+msgid "Analytics Code"
+msgstr ""
+
+#: search.php:17
+#@ elegantwhite
+msgid "Search results for:"
+msgstr ""
+
+#: tag.php:17
+#, php-format
+#@ elegantwhite
+msgid "Tag: %s"
+msgstr ""
+

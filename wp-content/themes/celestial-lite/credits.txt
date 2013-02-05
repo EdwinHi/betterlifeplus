@@ -1,0 +1,28 @@
+========= Credits & Plugins =============
+
+CMS WordPress Platform: http://www.wordpress.org
+Demo Images: http://www.veer.com
+
+Advanced Text Widget: http://simplerealtytheme.com/plugins/atw-pro/
+Breadcrumb NavXT: http://mtekk.us/code/breadcrumb-navxt/
+Cleaner Gallery: http://justintadlock.com/archives/2008/04/13/cleaner-wordpress-gallery-plugin
+Contact Form 7: http://contactform7.com/
+Dynamic Widgets: http://www.qurl.nl/dynamic-widgets/
+Lightbox Plus: http://www.23systems.net/plugins/lightbox-plus/
+Responsive Slider: http://alienwp.com/plugins/responsive-slider
+Simply Exclude: http://www.codehooligans.com/projects/wordpress/simply-exclude/
+Special Recent Posts Free Edition: http://wordpress.org/extend/plugins/special-recent-posts/
+TinyMC Advanced: http://www.laptoptips.ca/projects/tinymce-advanced/
+WP Google Fonts: http://adrian3.com/projects/wordpress-plugins/wordpress-google-fonts-plugin/
+
+
+========= Code Snippets ================
+
+Functions and Code snippets: Twenty Twelve theme by WordPress
+Functions code snippets, the Bootstrap theme: http://wordpress.org/extend/themes/the-bootstrap
+Functions code snippet: http://nixgadgets.vacau.com/archives/134
+Functions code snippet: http://digwp.com
+Functions code snippet: Michal Ochman http://blog.scur.pl/
+
+
+

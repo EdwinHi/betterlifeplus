@@ -1,0 +1,381 @@
+
+
+/* Main Menu */
+#site-navigation {
+	margin-top:32px;
+}
+.nav-right {
+	padding:0 0 10px 0;
+}
+
+/* begin menu */
+#site-navigation ul.menu a {
+	line-height:60px;
+	text-decoration:none;
+}
+
+#site-navigation ul#primarymenu {
+	float:right;
+	margin:0;
+	padding:0;
+}
+
+#site-navigation li{
+	position:relative; 
+	display:inline; 
+	float:left;
+	margin-left:0; 
+	padding:0 6px; 
+	font-size:14px;
+	font:normal 1rem Abel,arial, Helvetica, sans-serif; 
+	min-height: 40px;
+	line-height: 40px;
+	background-image:none; /* lets make sure no list style images show */
+}
+#site-navigation li:last-child,
+#site-navigation li:last-child  a { /* lines up on the right side of page with other elements */
+	padding-right:0;
+}
+/* submenus */
+#site-navigation ul ul{
+	display: none; /* hides submenu */
+	right:0; 
+	margin: 0;
+	position: absolute; 
+	z-index: 99999; /* makes sure the submenu is on top */
+	text-align:right; /* aligns the sub menu items which you can align left, center, or right */
+}
+
+#site-navigation ul ul ul {
+	right: 175px; /* positions next to the 2nd level menu */
+	width: 200px; /* adjust the width if your items are long */
+	top: 0;
+}
+
+#site-navigation ul ul ul:before {
+	display: none;
+}
+
+#site-navigation ul ul li{
+	width:200px; /* adjust the width if your items are long */
+	margin:auto; 
+	height:auto;
+	min-height: 22px;	
+	padding:0;
+	background-color:#f6f6f6;
+	border-top: 1px solid #ececec;
+}
+#site-navigation ul ul li:first-child {
+	border:none;
+}
+#site-navigation ul.children a, 
+#site-navigation ul.sub-menu a {	
+	height:12px; 
+	line-height:14px; 
+	padding:12px 15px; 
+	font-size:12px;
+	font-size:.875rem; /* font size of your submenus */
+	width:auto; 
+	display:block; 
+	
+}
+#site-navigation ul li:hover > ul{
+	display: block;
+	width:200px; /* adjust the width if your items are long */
+	padding:0 0 12px 0;
+	background-color:#446b9a;
+	border-bottom:5px solid #000; /* adds a nice border to the bottom of the submenus container */
+	-webkit-border-radius: 16px;
+	border-radius:         16px;
+	
+	-webkit-box-shadow:    0px 7px 7px 3px rgba(0, 0, 0, .25);
+	box-shadow:            0px 7px 7px 3px rgba(0, 0, 0, .25)
+	
+}
+
+/* style of hovering a submenu and when active */
+#site-navigation ul ul li:hover,
+#site-navigation ul.children li a:hover
+#site-navigation ul.sub-menu li a:hover {
+	background-color: #f3f3f3;
+}
+
+/* 
+ * colour styling for our menu
+ * you need to add the .home class to your Home menu item so it does not stay active always
+ *
+ */
+ 
+/* inactive colour */
+#site-navigation li a { 
+	color: #555; 
+} 
+/* hover colour */
+#site-navigation li a:hover{ 
+	color: #477bbe; 
+}
+/* current parent menu colour with an active parent or submenu */
+#site-navigation li.current-menu-ancestor a, 
+#site-navigation li.current-menu-item a { 
+	color: #477bbe; 
+} 
+/* keep the home item inactive when we click to go home unless there are active submenus */
+#site-navigation li.home.current-menu-item a {
+	color:#555;
+}
+/* inactive colour for submenu items */
+#site-navigation li li a, 
+#site-navigation li.current-menu-item li a, 
+#site-navigation li.current-menu-ancestor li a, 
+#site-navigation li li.current-menu-item li a, 
+#site-navigation li li.current-menu-ancestor li a { 
+	color: #555; 
+}
+/* submenu hover colour */
+#site-navigation li li a:hover, 
+#site-navigation li.home a:hover,
+#site-navigation li li.current-menu-item li a:hover, 
+#site-navigation li li.current-menu-ancestor li a:hover { 
+	color: #477bbe; 
+}
+/* active colour for submenu items */
+#site-navigation li li.current-menu-item a, 
+#site-navigation li li.current-menu-ancestor a, 
+#site-navigation li li.current-menu-ancestor li.current-menu-item a { 
+	color: #477bbe; 
+}
+
+
+/* mobile menu styling */
+
+
+@media (max-width: 979px) {
+	.navbar .btn-navbar {
+		margin-left:0;
+		margin-right:0;
+	}
+	.navbar .btn-navbar,
+	ul#primarymenu {
+		float:none!important;
+	}
+	#site-navigation {
+		margin-top:1rem;
+	}
+	#site-navigation ul {
+	list-style-type: none;
+	}
+	#site-navigation ul.children,
+	#site-navigation ul.sub-menu	{
+		display: block!important;
+		height: auto!important;
+		margin: 0!important;
+		overflow: visible!important;
+		padding: 0!important;
+		position: static!important;
+		width: 100%!important;
+	}
+	
+	#site-navigation > ul	{
+		margin-bottom: 20px!important;
+	}
+	#site-navigation ul li	{
+		border: none!important;
+		line-height: 28px!important;
+		min-height: 28px!important;
+		display:block!important;
+		width:100%!important;
+		text-align:left;
+	}
+	#site-navigation ul li{
+		border-top:1px solid #e5e5e5!important;
+	}	
+	#site-navigation > ul > li:first-child	{
+		border-top: none!important;	
+	}
+	#site-navigation ul li a,
+	#site-navigation ul ul li a,
+	#site-navigation ul ul ul li a {		
+		color: #777!important;
+		font-weight: normal!important;
+		line-height: 28px!important;
+		margin: 0!important;
+		min-height: 28px!important;
+		padding: 0!important;
+	}
+	
+	#site-navigation ul li.current,
+	#site-navigation ul li:active,
+	#site-navigation ul li:focus,
+	#site-navigation ul li:hover	{
+		background: #f2f2f2 url('../images/backgrounds/menu-bg-lines.png') repeat 0 0!important;
+		color: #585656;
+	}
+
+	#site-navigation ul li a	{
+		font-size: 13px;
+		padding: 0 15px!important;
+	}
+	
+	#site-navigation ul li li a{
+		font-size: 12px;
+		padding: 0 15px 0 30px!important;
+	}
+	
+	#site-navigation ul li li li a{
+		font-size: 11px;
+		padding: 0 15px 0 50px!important;
+	}
+	
+	#site-navigation ul li li li li a {
+		font-size: 10px;
+		padding: 0 15px 0 70px!important;
+	}
+	
+	#site-navigation > ul	{
+		background: #fff;
+		border: 1px solid #eee;
+		border-radius: 5px;
+	}
+	
+	#site-navigation ul ul{
+		background: #fff;
+		border: none!important;
+		box-shadow: none!important;
+		position: static;
+		width: 100%;
+	}
+	#site-navigation ul ul:before
+	#site-navigation ul ul ul:before{
+		display: none;
+	}
+	#branding {
+		text-align:center;
+	}
+	
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+	#site-navigation {
+		margin-top:18px;
+		margin-top:1.125rem;
+	}
+}
+@media (max-width: 767px) {
+	#site-navigation {
+		margin-top:6px;
+		margin-top:.375rem;
+	}
+}
+
+/*
+ * Footer Menu 
+ */
+#st-footer-menu.menu {
+	margin:0;
+}
+#st-footer-menu li {
+	display:inline;
+	margin:0 4px 0 0;
+	
+ }
+#st-footer-menu li:before { 
+	content:"\00B7";
+	padding-right:7px;
+}
+#st-footer-menu li:first-child:before {
+	content:"";
+}
+/*
+ * Pagination 
+ */
+ /*Pagination*/
+ .pagination {
+  height: 30px;
+  margin: 20px 0;
+}
+ul.page-numbers {
+  display: inline-block;
+  *display: inline;
+  /* IE7 inline-block hack */
+  *zoom: 1;
+  margin-left: 0;
+  margin-bottom: 0;
+  -webkit-border-radius: 5px;
+  -moz-border-radius:    5px;
+  border-radius:         5px;
+  
+  -webkit-box-shadow:    0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow:       0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow:            0 1px 2px rgba(0, 0, 0, 0.05);
+}
+.page-numbers li {
+  display: inline;
+  font-size:11px;
+}
+.page-numbers a,
+.page-numbers span {
+  float: left;
+  padding: 0 6px;
+  line-height: 20px;
+  text-decoration: none;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-left-width: 0;
+}
+
+.page-numbers li:first-child a,
+.page-numbers li:first-child span {
+  border-left-width: 1px;
+  -webkit-border-radius: 5px 0 0 5px;
+  -moz-border-radius: 5px 0 0 5px;
+  border-radius: 5px 0 0 5px;
+}
+.page-numbers li:last-child a,
+.page-numbers li:last-child span {
+  -webkit-border-radius: 0 5px 5px 0;
+  -moz-border-radius: 0 5px 5px 0;
+  border-radius: 0 5px 5px 0;
+}
+a.page-numbers, 
+.page-numbers span {
+	display:inline-block;
+	line-height:20px;
+	padding:2px 5px;
+	cursor: pointer;
+	  color: #494f55;
+	  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+	  background-color: #f5f5f5;
+	  background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
+	  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));
+	  background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);
+	  background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);
+	  background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+	  background-repeat: repeat-x;
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);  
+	  *background-color: #e6e6e6;
+	  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
+	  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+	  
+	  -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
+	  -moz-box-shadow:    inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
+	  box-shadow:         inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
+  
+}
+a.page-numbers:hover {
+  color: #494f55;
+  text-decoration: none;
+  background-color: #e6e6e6;
+  *background-color: #d9d9d9;
+  /* Buttons in IE7 don't get borders, so darken on hover */
+  background-position: 0 -15px;
+  -webkit-transition: background-position 0.1s linear;
+  -moz-transition:    background-position 0.1s linear;
+  -o-transition:      background-position 0.1s linear;
+  transition:         background-position 0.1s linear;
+}
+span.page-numbers.current {
+  background-color: #f5f5f5;
+  background-image:none;
+  cursor: default;
+}
+ul.page-numbers {background:none; border:none; padding:none; line:height:1;}

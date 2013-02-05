@@ -1,0 +1,25 @@
+@import url("../themes/elegantWhite/style.css");
+
+#line { background-color: #f07900; }
+	ul.nav li.current_page_item a , ul.nav li.current_page_item a:hover, ul.nav li a:hover { background-color: #f07900; }
+    a { color:#f07900; }
+    #blogtitle a { color:#f07900; }
+
+input[type=submit] {
+   background-color:#f07900;
+}
+
+table[id=wp-calendar] thead, table[id=wp-calendar] th {
+	background-color: #f07900;
+}
+
+table[id=wp-calendar] th {
+   border-left: 1px solid #c16200;
+   border-right: 1px solid #c16200;
+
+}
+
+a.h1 {
+	color:#f07900;
+	text-decoration: none;
+}

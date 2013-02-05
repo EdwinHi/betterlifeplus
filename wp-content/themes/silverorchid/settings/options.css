@@ -1,0 +1,139 @@
+#gazpo-admin {
+	width: 900px;
+	margin-top: 15px; 
+	font-family: Arial,sans-serif;
+	color: #353E34;
+}
+
+#gazpo-admin .header{
+	width:900px;
+	height:80px;
+	background: url(images/h1.png) repeat;
+	border-radius: 10px 10px 0 0;
+}
+	
+#gazpo-admin .gazpo-logo{
+	float: left;
+	display: inline;
+	margin: 5px 0 0 20px;
+}
+	
+#gazpo-admin .theme-info{
+	float: right;
+	margin-right: 15px;
+}
+
+#gazpo-admin .theme-info h3{
+	text-align:right;
+	margin-top: 10px; 
+	color: #f6f8f9;
+	font-size:20px;
+	font-weight:700;
+}
+
+#gazpo-admin .theme-info ul{
+	overflow:auto;
+	margin-top: 10px; 
+}
+
+#gazpo-admin .theme-info ul li {
+	padding-left: 20px;
+	float: left;
+	display: inline;
+	margin-left: 10px;
+}
+	
+#gazpo-admin .theme-info ul li.docs{
+	background: url(images/info1.png) no-repeat top left;
+}
+	
+#gazpo-admin .theme-info ul li.support{
+	background: url(images/mail.png) no-repeat top left;
+}
+#gazpo-admin .theme-info ul li  a{
+	text-decoration:none;
+	color:white;
+}
+
+#gazpo-admin .clear{
+	clear:both;
+}
+
+#gazpo-admin .options-form{
+	background-color: #fff;
+	border: solid 1px #dfdfdf;
+	border-top: none;
+	padding: 15px 20px;
+}
+
+#gazpo-admin .options-form .field{
+	margin-bottom:10px;
+	overflow:auto;	
+}
+
+#gazpo-admin .options-form label {
+	font-weight: bold;
+    line-height:2.5;
+    display: inline-block;
+    width:180px;
+    margin-right:10px;
+	text-align:right;	
+}
+	
+#gazpo-admin .options-form input, #gazpo-admin .options-form select{
+	border: 1px solid #d5d5d5;
+	color: #444444;   
+    height:34px;
+	font-size:14px;
+    padding:6px 8px;
+    width:330px;
+    display: inline-block;
+    margin-right:10px;		
+}
+	
+#gazpo-admin .options-form span {
+	font-size: 12px;
+	color:#777777;	
+    display: inline-block;
+    width:300px;
+    line-height:15px;
+    vertical-align: middle;
+}
+
+#gazpo-admin .options-form .textarea{
+	border:1px solid red;
+	border: 1px solid #d5d5d5;
+	color: #444444;   
+    height:90px;
+	font-size:14px;
+    padding:6px 8px;
+    width:330px;
+    display: inline-block;
+	vertical-align: middle;
+    margin-right:10px;	
+}
+
+#gazpo-admin .options-form .checkbox{
+	width: 13px;
+    height: 13px;
+    padding: 0;
+    margin:7px 325px 0 5px;   
+}
+
+#gazpo-admin  .updated_status{
+	background:#89B92C;
+	color:#ffffff;
+	padding:7px 10px;
+	margin:10px 20px;
+	font-weight:bold;	
+}
+
+#gazpo-admin .submit {
+	float:left;
+	margin-right:10px;
+}
+
+#gazpo-admin .options-form  .updated {
+	overflow:auto;
+	padding:3px 5px;	
+}

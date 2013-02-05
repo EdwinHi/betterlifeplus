@@ -1,0 +1,193 @@
+@import "http://fonts.googleapis.com/css?family=Droid+Sans:400,700";
+body {
+	width: 440px;
+	
+	color: #6a6a6a;
+	font-family: "Droid Sans", sans-serif;
+	font-size: 12px;
+	line-height: 1.6em;
+	margin-top: -15px;
+}
+
+body > *:last-child {
+	margin-bottom: 0;
+}
+
+body p,
+body > ul,
+body > li,
+.entru-content dl {
+	margin: 25px 0;
+}
+
+body a {
+	color: #dc5c3b;
+}
+
+body blockquote {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-style: italic;
+	margin-left: 1.5em;
+}
+
+body blockquote cite {
+	color: #5e5e5e;
+	font-family: "Droid Sans", sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+body blockquote cite a {
+	color: #5e5e5e;
+}
+
+body pre {
+	background: white;
+	border: 1px solid #E0E0E0;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.09);
+	font-family: "Courier New", Courier, mono;
+	padding: 10px;
+}
+
+body code {
+	font-family: "Courier New", Courier, mono;
+}
+
+/* =Gallery 
+-------------------------------------------------------------- */
+
+body .gallery-caption {
+}
+
+/* =Table 
+-------------------------------------------------------------- */
+
+body table {
+	width: 100%;
+	
+}
+
+/* =Images 
+-------------------------------------------------------------- */
+
+body img {
+	height: auto;
+	
+	max-width: 100%;
+}
+
+body .wp-caption {
+	border: 1px solid #E0E0E0;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.09);
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	margin: 30px 0;
+	max-width: 100%;
+	padding: 8px;
+	text-align: center;
+}
+
+body .wp-caption p.wp-caption-text {
+	color: #848484;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	margin: 0;
+}
+
+body .alignleft {
+	display: inline;
+	float: left;
+	margin-bottom: 10px;
+	margin-right: 20px;
+}
+
+body .alignright {
+	display: inline;
+	float: right;
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+
+body .aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* =Lists 
+-------------------------------------------------------------- */
+
+body ul {
+	list-style-type: square;
+}
+
+body ol {
+	list-style-type: decimal;
+}
+
+body ol ol {
+	list-style-type: upper-alpha;
+}
+
+body ol ol ol {
+	list-style-type: lower-roman;
+}
+
+body ul li,
+body ol li {
+	margin-left: 1.5em;
+}
+
+/* =Definition List 
+-------------------------------------------------------------- */
+
+body dl dt {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+body dl dd {
+	margin-bottom: 10px;
+	padding-left: 20px;
+}
+
+/* =Headings 
+-------------------------------------------------------------- */
+
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+	color: #5e5e5e;
+	font-weight: 300;
+	margin: 30px 0;
+}
+
+body h1 {
+	font-size: 22px;
+}
+
+body h2 {
+	font-size: 19px;
+}
+
+body h3 {
+	font-size: 16px;
+}
+
+body h4 {
+	font-size: 14px;
+}
+
+body h5 {
+	font-size: 12px;
+}
+
+body h6 {
+	font-size: 10px;
+}
+

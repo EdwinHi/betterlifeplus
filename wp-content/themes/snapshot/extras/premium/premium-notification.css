@@ -1,0 +1,73 @@
+.siteorigin-premium-teaser {
+	position: relative;
+	
+	background: #cbe385;
+	background: -moz-linear-gradient(top, #cbe385 0%, #9ccc54 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cbe385), color-stop(100%,#9ccc54));
+	background: -webkit-linear-gradient(top, #cbe385 0%,#9ccc54 100%);
+	background: -o-linear-gradient(top, #cbe385 0%,#9ccc54 100%);
+	background: -ms-linear-gradient(top, #cbe385 0%,#9ccc54 100%);
+	background: linear-gradient(to bottom, #cbe385 0%,#9ccc54 100%);
+	border: 1px solid #83a44d;
+	border-radius: 3px;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.5);
+	color: #4f6920;
+	display: inline-block;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cbe385', endColorstr='#9ccc54',GradientType=0 );
+	font-weight: bold;
+	line-height: 1em;
+	padding: 10px 15px 10px 29px;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+}
+
+.siteorigin-premium-teaser:hover {
+	background: #cee688;
+	background: -moz-linear-gradient(top, #cee688 0%, #a3d25a 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cee688), color-stop(100%,#a3d25a));
+	background: -webkit-linear-gradient(top, #cee688 0%,#a3d25a 100%);
+	background: -o-linear-gradient(top, #cee688 0%,#a3d25a 100%);
+	background: -ms-linear-gradient(top, #cee688 0%,#a3d25a 100%);
+	background: linear-gradient(to bottom, #cee688 0%,#a3d25a 100%);
+	box-shadow: inset 0 1px 0 rgba(255,255,255,0.5), 0 1px 2px rgba(0,0,0,0.25);
+	color: #476118;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cee688', endColorstr='#a3d25a',GradientType=0 );
+}
+
+.siteorigin-premium-teaser:active {
+	background: #b3d46c;
+	background: -moz-linear-gradient(top, #b3d46c 0%, #bbd975 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b3d46c), color-stop(100%,#bbd975));
+	background: -webkit-linear-gradient(top, #b3d46c 0%,#bbd975 100%);
+	background: -o-linear-gradient(top, #b3d46c 0%,#bbd975 100%);
+	background: -ms-linear-gradient(top, #b3d46c 0%,#bbd975 100%);
+	background: linear-gradient(to bottom, #b3d46c 0%,#bbd975 100%);
+	box-shadow: inset 0 1px 0 rgba(255,255,255,0.5), 0 0 1px rgba(0,0,0,0.25);
+	color: #476118;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3d46c', endColorstr='#bbd975',GradientType=0 );
+	margin-bottom: -1px;
+	margin-top: 1px;
+	outline: none;
+}
+
+.siteorigin-premium-teaser em {
+	position: absolute;
+	top: 50%;
+	left: 9px;
+	width: 12px;
+	height: 13px;
+	
+	background: url(img/upgrade.png) no-repeat;
+	margin-top: -6px;
+}
+
+.siteorigin-premium-teaser strong {
+	color: #425c13;
+}
+
+.siteorigin-premium-teaser-description {
+	color: #999;
+	font-size: 12px;
+	margin-top: 8px;
+}
+
